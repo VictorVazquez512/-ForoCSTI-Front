@@ -25,7 +25,7 @@
         >
           <v-row class="flex-column">
             <v-col class="d-flex justify-center">
-              <v-img max-height="300" max-width="300"></v-img>
+              <v-img max-height="300" max-width="300"> </v-img>
             </v-col>
             <v-col>
               <v-img
@@ -69,7 +69,7 @@
                 >
                   <v-divider class="my-auto mr-3"></v-divider>
                   <h1 class="d-flex justify-center align-center white--text">
-                    Bienvenido
+                    Foros CSTI
                   </h1>
                   <v-divider class="my-auto ml-3"></v-divider>
                 </v-col>
