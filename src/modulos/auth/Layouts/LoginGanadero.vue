@@ -215,7 +215,7 @@
 import Swal from "sweetalert2";
 export default {
   data: () => ({
-    usuario: "Eros Leon",
+    usuario: "Pepe Garza",
     modalRegistrar: false,
   }),
   methods: {
@@ -233,7 +233,7 @@ export default {
       });
       Toast.fire({
         icon: "success",
-        title: "Bienvenido " + this.usuario,
+        title: "Bienvenido Pepe Garza",
       });
     },
   },

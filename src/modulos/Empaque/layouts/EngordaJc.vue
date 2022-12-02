@@ -101,7 +101,7 @@ Cuando el titular de los datos personales sea una persona reportada como desapar
       </v-toolbar-title>
       <v-spacer></v-spacer>
       <div class="text-center">
-        <span>Usuario</span>
+        <span>Pepe Garza</span>
         <v-bottom-sheet v-model="sheet">
           <template v-slot:activator="{ on, attrs }">
             <v-btn
