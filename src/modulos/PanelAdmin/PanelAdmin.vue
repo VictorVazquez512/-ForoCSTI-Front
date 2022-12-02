@@ -18,7 +18,7 @@
       </v-toolbar-title>
       <v-spacer></v-spacer>
       <div class="text-center">
-        <span>Administrador</span>
+        <span>Pepe Garza</span>
         <v-bottom-sheet v-model="sheet">
           <template v-slot:activator="{ on, attrs }">
             <v-btn
